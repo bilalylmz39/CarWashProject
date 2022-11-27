@@ -25,7 +25,7 @@ public class Door{
 
         isOpen = false;
         try {
-            Thread.sleep(2000);
+            Thread.sleep(2500);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

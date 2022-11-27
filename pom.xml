@@ -15,7 +15,7 @@
 
 
     <build>
-        <finalName>bim209hw</finalName>
+        <finalName>bim209hw1</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
